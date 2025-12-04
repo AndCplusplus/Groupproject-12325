@@ -55,6 +55,8 @@ Required Feature
 
 ## Wireframes
 
+![](https://i.imgur.com/6FmBzwc.png)
+
 ┌───────────────────────────────┐
 │ App Splash / Load Data        │     // On first load fetch + cache data
 └───────────────────────────────┘
